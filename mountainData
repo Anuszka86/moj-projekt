@@ -1,0 +1,20 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gerlach",
+        "height": "2654m",
+        "routes": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.134055614471436,
+          49.16402036645431
+        ]
+      }
+    }
+  ]
+}
