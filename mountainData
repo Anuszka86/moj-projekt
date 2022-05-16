@@ -5,14 +5,34 @@
       "type": "Feature",
       "properties": {
         "name": "Gerlach",
-        "height": "2654m",
-        "routes": []
+        "nameSK": "Gerlachovský štít",
+        "valley": [
+          "Batyżowiecka",
+          "Wielicka"
+        ],
+        "height": "2654",
+        "routes": [
+          {
+            "SW": []
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           20.134055614471436,
           49.16402036645431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.124249458312985,
+          49.1653182245806
         ]
       }
     }
