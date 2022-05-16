@@ -29,8 +29,45 @@
     {
       "type": "Feature",
       "properties": {
-        "nameSK": "",
-        "height": ""
+        "name": "Batyżowiecki Szczyt",
+        "nameSK": "Batizovský štít",
+        "valley": [
+          "Batyżowiecka"
+        ],
+        "height": "2448",
+        "routes": [
+          {
+            "S": [
+              "S. Bernadzikiewicz, A. Kenar (III)",
+              "Droga Tatarki (IV+, A0)",
+              "Droga Kutty (IV+/V-)",
+              "F. Gažo, I. Gálfy (V)",
+              "J. Koršala, P. Vavro (V-VI)",
+              "Čihulov pilier (V, A1,RP V+ )",
+              "R. Kubín, V. Roland (V)",
+              "Droga Komarnickich (IV)",
+              "J pilier - Kuffa (V)",
+              "Tatarka-Michalko, (IV+,A1,A2, RP:VII-, A0 )",
+              "Południowo-wschodnia droga (IV+,A0)",
+              "A. Puškáš, T. Tóth, (III-IV)",
+              "Pytlákův expres, (VI+)",
+              "Zimny Prysznic, (VI)",
+              "Pilierissima, (VII)"
+            ],
+            "SW": [
+              "Skrajna lewą depresją (V)",
+              "Depresją (V)",
+              "Čiernobiele sokolíky, (VI+)",
+              "Variant stokom vody (V+,A0)",
+              "Josemicka, (IV+,A0)",
+              "L. Lapúnik, B. Čiernik (VI)",
+              "H. Przedpelska, M. Czachor (V+)",
+              "M. Griesel, V. Petrík (IV+,A1)",
+              "S. Bernadzikiewicz, A. Kenar (III)",
+              "Hermelin Light, (VII-)"
+            ]
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
