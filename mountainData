@@ -13,7 +13,8 @@
         "height": "2654",
         "routes": [
           {
-            "SW": []
+            "SW": [],
+            "E": []
           }
         ]
       },
@@ -27,7 +28,10 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "nameSK": "",
+        "height": ""
+      },
       "geometry": {
         "type": "Point",
         "coordinates": [
